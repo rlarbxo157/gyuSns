@@ -1,0 +1,21 @@
+.postCreatedForm{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin: -200px;
+    z-index: 100;
+    width: 400px;
+    height: 328px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+}
+
+/* width:"400px",height:'328px',backgroundColor:'white',borderRadius:'15px',boxShadow:'rgba(0,0,0,0.35) 0px 5px 15px' */
+
+.post_text::placeholder{
+    font-size: 20px;
+    color:#65686c;
+   
+    /* color: red; */
+}

@@ -1,0 +1,11 @@
+{
+    "presets": [
+        ["next/babel", { "preset-env": { "targets": { "browsers": ["last 2 versions", "safari >= 7"] } } }]
+      ],
+    "plugins": [
+        ["babel-plugin-styled-components",{
+            "ssr":true,
+            "displayName":true
+        }]
+    ]
+}

@@ -1,0 +1,45 @@
+.user_input{
+    background-color: #eff2f5;
+    border: none;
+}
+.user_input::placeholder{
+    position: relative;
+    left: 20px;
+}
+/* .over{
+    opacity: 0.3;
+} */
+.over{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    /* opacity: 0.7; */
+    /* background-color: black !important; */
+}
+
+.userProfile{
+    width: 90%;
+    text-decoration: none;
+    color: gray;
+}
+span{
+    color: grey;
+}
+.friend{
+    width: 90%;
+
+}
+
+.userProfile:hover{
+    background-color: #e3e6ea;
+    border-radius: 10px;
+   
+}
+
+.friend:hover{
+    background-color: #e3e6ea;
+    border-radius: 10px;
+
+}

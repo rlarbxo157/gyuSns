@@ -1,0 +1,16 @@
+.comment_input {
+    background-color: #eff2f5;
+    border: none;
+    outline: none;
+}
+
+.comment_input::placeholder {
+    position: relative;
+    left: 20px;
+}
+.comment_form{
+    opacity: 1 !important;
+}
+.opaci{
+    opacity: 1 !important;
+}
