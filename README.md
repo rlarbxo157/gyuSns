@@ -1,2 +1,9 @@
 # gyuSns
-sns서비스
+
+#### Building for source
+
+For production release:
+
+```sh
+gulp build --prod
+```
