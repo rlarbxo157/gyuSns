@@ -24,4 +24,11 @@ gulp build --prod
 <h3>2. npm install</h3>
 <h3>3. npm run dev</h3>
   
- 
+  <h1>Skill</h1>
+  <h4>HTML</h4>
+  <h4>CSS</h4>
+  <h4>Next.js<h4>
+    <h4>node.js</h4>
+    <h4>Mysql</h4>
+    
+  
