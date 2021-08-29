@@ -26,9 +26,15 @@ gulp build --prod
   
   <h1>Skill</h1>
   <h4>HTML</h4>
-  <h4>CSS</h4>
+  <h4>SCSS</h4>
   <h4>Next.js<h4>
     <h4>node.js</h4>
     <h4>Mysql</h4>
+    
+    <h4>상태 관리 라이브러리</h4>
+    <h4>redux, redux-saga</h4>
+    
+    
+    
     
   
