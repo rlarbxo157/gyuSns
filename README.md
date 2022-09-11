@@ -1,4 +1,4 @@
-# gyuSns
+# sns-project
 
 #### Building for source
 
